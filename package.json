@@ -1,0 +1,14 @@
+{
+  "name": "crx-issue",
+  "version": "1.0.0",
+  "description": "Example repo for issues with crx package",
+  "scripts": {
+    "get-key": "crx keygen ."
+  },
+  "author": "Michael Scholtz",
+  "license": "Public domain",
+  "dependencies": {
+    "crx": "^3.2.1"
+  },
+  "private": true
+}
