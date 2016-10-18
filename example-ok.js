@@ -1,3 +1,6 @@
+// This example uses absolute path and also provides its own private key.
+// Run `npm run get-key` before running this example.
+
 const fs = require('fs');
 const path = require('path');
 const ChromeExtension = require('crx');
